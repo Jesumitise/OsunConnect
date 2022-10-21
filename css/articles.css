@@ -213,11 +213,9 @@ ul{
 
 
 @media screen and (max-width:1024px) and (min-width:0px){
-    body{
-        font-size: 18px;
-    }
     nav{
         width: 100%;
+        position: fixed;
     }
     #hero h1{
         font-size: 5em;
