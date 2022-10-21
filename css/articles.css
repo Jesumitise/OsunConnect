@@ -159,6 +159,7 @@ footer{
 }
 ul{
     list-style: none;
+    color: #d3cfcf;
 }
 .footer-col{
     width: 25%;
@@ -189,7 +190,7 @@ ul{
     text-transform: capitalize;
     color: #b7b3b3;
     font-weight: 300;
-    color: aliceblue;
+    color: aliceblue !important;
     display: block;
     transition: all 1s ease;
 }
