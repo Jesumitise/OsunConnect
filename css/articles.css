@@ -160,7 +160,6 @@ footer{
 }
 ul{
     list-style: none;
-    color: #d3cfcf;
 }
 .footer-col{
     width: 25%;
@@ -185,6 +184,9 @@ ul{
 }
 .footer-col ul il:not(last-child){
     margin-bottom: 10px;
+}
+footer a{
+    color: #d3cfcf;
 }
 .footer-col ul il a{
     font-size: 16px;
