@@ -219,15 +219,7 @@ ul{
     #hero h1{
         font-size: 5em;
     }
-    .ile-ife{
-        height: 120vh;
-    }
-    .odun-olojo,  .osun-osogbo{
-        height: 150vh;
-    }
-    .oau{
-        height: 180vh;
-    }    
+    
 }
 @media screen and (max-width:390px){
     body{
@@ -296,3 +288,14 @@ ul{
     }
 }
 
+@media screen and (max-width:500px) {
+    .ile-ife{
+        height: 120vh;
+    }
+    .odun-olojo,  .osun-osogbo{
+        height: 150vh;
+    }
+    .oau{
+        height: 180vh;
+    }    
+}
