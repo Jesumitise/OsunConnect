@@ -67,7 +67,13 @@ nav a:hover{
     transition: all 0.3s ease;
 }
 #hero{
-    background-image: url(/images/hero4.jpeg);
+    background: linear-gradient(
+        to bottom right,
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+       ), url("/images/build.jpeg");
+       background-size: cover;
+       background-position: center;
     height: 70vh;
     width: 100%;
     background-size: cover;
