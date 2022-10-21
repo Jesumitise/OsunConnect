@@ -13,8 +13,7 @@ body{
 }
 a{
     text-decoration: none;
-    color: #000000;
-    padding: 2px;  
+  
 }
 nav{
     display: flex;
@@ -47,6 +46,8 @@ nav #article-page{
     font-weight: bold;
     font-size: 14px;
     font-weight: 900 !important;
+    color: #000000;
+    padding: 2px;
 }
 nav a{
     padding: 5px;
